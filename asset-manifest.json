@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exercise-app/static/css/main.9522adde.css",
+    "main.js": "/exercise-app/static/js/main.cc5a7b59.js",
+    "index.html": "/exercise-app/index.html",
+    "main.9522adde.css.map": "/exercise-app/static/css/main.9522adde.css.map",
+    "main.cc5a7b59.js.map": "/exercise-app/static/js/main.cc5a7b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9522adde.css",
+    "static/js/main.cc5a7b59.js"
+  ]
+}
